@@ -19,10 +19,12 @@ It will automatically generate database tabels for this project.
 
 Basic Coverages
 ===============
-* Spring RestFull webservices for API Management
+* Spring RESTful webservices for API Management
 * Spring JDBC
 * Spring MVC
 * Spring Security(Basic Level)
 * Log4j
+* Back end Error hadle for AngularJs front end
+* Junit4 for Spring  and Unit tests
 * AngualrJs(Factory, RouterProver, WebServices)
 * JAVA 8 new features(basic Stream API and lamda)
