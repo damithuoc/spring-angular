@@ -11,7 +11,7 @@ Maven 3.0
 as "root" or change springWebSecurity.xml file for your preference.
 
 03) Run maven command: "mvn clean package install -DskipTests"
-It will automatically generate database tabels for this project.
+It will automatically generate database tables for this project.
 
 04) Run unit test in for create sample users(see UserServiceTest in test source)
 
