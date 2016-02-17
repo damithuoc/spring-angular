@@ -23,5 +23,6 @@ Basic Coverages
 * Spring JDBC
 * Spring MVC
 * Spring Security(Basic Level)
+* Log4j
 * AngualrJs(Factory, RouterProver, WebServices)
 * JAVA 8 new features(basic Stream API and lamda)
