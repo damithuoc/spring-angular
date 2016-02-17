@@ -1,6 +1,7 @@
 Spring+AngularJs
 =================
 How to run this project
+
 01) Requirements
 JDK 1.8.x.x
 MySQL 5.6
